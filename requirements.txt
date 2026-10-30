@@ -1,3 +1,5 @@
+openai>=2.12,<2.34
 pyserini
 faiss-cpu
 jupyter
+
